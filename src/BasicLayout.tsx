@@ -1,9 +1,14 @@
 import React from 'react';
-
-import './style/index.scss';
+import Header from './components/Header';
 
 function BasicLayout() {
-  return <div>12313</div>;
+  return (
+    <div className="stretched">
+      <div id="wrapper" className="clearfix">
+        <Header />
+      </div>
+    </div>
+  );
 }
 
 export default BasicLayout;

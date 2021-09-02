@@ -17169,12 +17169,12 @@ fsevents@^1.2.7:
   linkType: hard
 
 "react-colorful@npm:^5.1.2":
-  version: 5.3.1
-  resolution: "react-colorful@npm:5.3.1"
+  version: 5.4.0
+  resolution: "react-colorful@npm:5.4.0"
   peerDependencies:
     react: ">=16.8.0"
     react-dom: ">=16.8.0"
-  checksum: 08e1939029a892628c545ffd7ab9e5814477692a0d2623fba6e9fccf5c4ea22990a015a50fb031fc3fe15100d764951d3adeb8a298e9ec4f97c5ef8e4501c253
+  checksum: eabecd223a2984c9f35118a42f09b0283aa0a5037c1e4bbecca37002ca0789d83d9adb932123bd78e9b856451ea0784e21e08addb06a978954cb3aa82b9f5c4b
   languageName: node
   linkType: hard
 
